@@ -7,3 +7,6 @@ Exploring Wake County restaurant data with Jupyter notebooks
 ### Data sources
 
 - [Wake County Open Data](https://data.wakegov.com/)
+- [Restaurants in Wake County](https://data.wakegov.com/datasets/Wake::restaurants-in-wake-county/explore)
+- [Restaurant Food Inspections](https://data.wakegov.com/datasets/Wake::food-inspections/explore)
+- [Restaurant Food Inspection Violations](https://data.wakegov.com/datasets/Wake::food-inspection-violations/explore)
